@@ -1,4 +1,4 @@
 *.xlsx
 *.csv
 *.parquet
-venv/*
+venv
